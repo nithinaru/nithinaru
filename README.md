@@ -1,6 +1,6 @@
 # Hey, I'm Nithin 👋
 
-I'm a UC Berkeley Undegrad Student studying Operations Research & Math. I'm exploring reinforcement learning, computing & wearable tech.
+I'm an Undegrad Student studying Operations Research & Math. I'm exploring reinforcement learning, computing & wearable tech.
 
 ---
 
