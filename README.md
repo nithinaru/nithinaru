@@ -4,8 +4,8 @@ I study Operations Research & Math. I'm exploring reinforcement learning, comput
 
 ---
 
-* 1st Place, Best Use of Apify – Scalekit x Apify x Entire.io Hackathon
-* 2nd Place – CapCut x ByteDance x Design Buddies Hackathon
+* 1st Place, Best Use of Superserve – Stripe x Lovable x Terac No-Human Hackathon
+* Top 8 – Y Combinator x Medplum Hackathon +7 more Hackathon Awards
 * Think Award, Highest Programming Honor – VEX AI World Championship 2024 – Team 3134X
 * Founder, CEO – [Terran](https://youtu.be/HTlI9NxZe-g?si=dLR4D8QZOzcxwFo9), smart-farming startup – 2nd Place NFTE WSI, Top 100 Blue Ocean + 3 more
 
