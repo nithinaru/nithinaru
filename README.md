@@ -9,8 +9,8 @@ I study Operations Research & Math. I'm exploring reinforcement learning, comput
 * Think Award, Highest Programming Honor – VEX AI World Championship 2024 – Team 3134X
 * Founder, CEO – [Terran](https://youtu.be/HTlI9NxZe-g?si=dLR4D8QZOzcxwFo9), smart-farming startup – 2nd Place NFTE WSI, Top 100 Blue Ocean + 3 more
 
-Currently conducting RL & OR research in Marketing Analytics. Designing a [natural-language portfolio optimizer](https://github.com/nithin-arus/Truffle) with stochastics. Bullish on Nuclear Energy.
+Currently conducting RL & OR research in Marketing Analytics. Designing the [AI platform for pricing](https://github.com/nithinaru/priceflag) with Markov decision processes. 
 
 ---
 
-[nithinaruswamy.com](https://nithinaruswamy.com)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [Gmail](mailto:nithin.alaska@gmail.com)  –  [X](https://x.com/nithinaru)
+[nithinaruswamy.com](https://nithinaruswamy.com)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [Gmail](mailto:nithin.alaska@gmail.com)  –  [Follow my X](https://x.com/nithinaru)
