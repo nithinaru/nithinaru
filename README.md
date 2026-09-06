@@ -13,4 +13,4 @@ Currently conducting RL & OR research in Marketing Analytics. Designing the [AI 
 
 ---
 
-[nithinaruswamy.com](https://nithinaruswamy.com)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [Gmail](mailto:nithin.alaska@gmail.com)  –  [Follow my X](https://x.com/nithinaru)
+[nithinaruswamy.com](https://nithinaruswamy.com)  –  [LinkedIn](https://linkedin.com/in/aruswamy)  –  [Gmail](mailto:nithin.alaska@gmail.com)  –  [Twitter](https://x.com/nithinaru)
