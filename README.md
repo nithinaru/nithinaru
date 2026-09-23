@@ -1,6 +1,6 @@
 # Hey, I'm Nithin 👋
 
-I study Operations Research & Math. I'm exploring reinforcement learning, computing & wearable tech.
+I study Operations Research & Math. Currently on a gap year exploring reinforcement learning, computing & marketing.
 
 ---
 
