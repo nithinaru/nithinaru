@@ -4,7 +4,7 @@ I study Operations Research & Math. Currently on a gap year exploring reinforcem
 
 ---
 
-* 1st Place, Best Use of Superserve – Stripe x Lovable x Terac No-Human Hackathon
+* 1st Place – Stanford Multi-Omics Hackathon 2026
 * 1st Place – AWS x NVIDIA x Tencent Hackathon   +9 more Hackathon Awards
 * Think Award, Highest Programming Honor – VEX AI World Championship 2024 – Team 3134X
 * Founder, CEO – [Terran](https://youtu.be/HTlI9NxZe-g?si=dLR4D8QZOzcxwFo9), smart-farming startup – 2nd Place NFTE WSI, Top 100 Blue Ocean + 3 more
