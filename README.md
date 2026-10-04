@@ -4,7 +4,7 @@ I study Operations Research & Math. Currently on a gap year exploring reinforcem
 
 ---
 
-* [1st Place](https://github.com/Stanford-Bioinformatics-Center/multiomics-hackathon-2026-track-5) – Stanford Multi-Omics Hackathon 2026
+* [1st Place](https://stanford.bioinformatics-center.org/) – Stanford Multi-Omics Hackathon 2026
 * [1st Place](https://github.com/PranavAchar01/player-two) – AWS x NVIDIA x Tencent Hackathon
 * [1st Place](https://github.com/PranavAchar01/foundry) – Superserve Track — Stripe x Lovable x Terac Hackathon _+7 more_
 * Think Award, Highest Programming Honor – VEX AI World Championship 2024 – Team 3134X
