@@ -10,7 +10,7 @@ I study Operations Research & Math. Currently on a gap year exploring reinforcem
 * Think Award, Highest Programming Honor – VEX AI World Championship 2024 – Team 3134X
 * Founder, CEO – [Terran](https://youtu.be/HTlI9NxZe-g?si=dLR4D8QZOzcxwFo9), smart-farming startup – 2nd Place NFTE WSI, Top 100 Blue Ocean _+3 more_
 
-Currently conducting RL & OR research in Marketing Analytics. Designing the [AI platform for pricing](https://github.com/nithinaru/priceflag) with Markov decision processes. 
+Currently conducting RL & OR research in Marketing Analytics. Designing the [AI platform for pricing](https://priceflag.org/) with Markov decision processes. 
 
 ---
 
